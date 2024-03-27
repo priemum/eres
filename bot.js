@@ -9,7 +9,7 @@ const {
 	VimeoExtractor,
 	AttachmentExtractor,
 	ReverbnationExtractor } = require('@discord-player/extractor');
-
+           
 const fs = require('fs');
 
 // Initialize client
